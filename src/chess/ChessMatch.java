@@ -58,7 +58,7 @@ public class ChessMatch {
 	
 	private void validateTargetPosition (Position source, Position target) {
 		if(!board.piece(source).possibleMove(target)) {
-			throw new ChessException ("The chosen can't move to target position");
+			throw new ChessException ("The chosen piece can't move to target position");
 		}
 	}
 	
