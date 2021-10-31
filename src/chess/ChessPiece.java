@@ -22,7 +22,7 @@ public abstract class ChessPiece extends Piece {
 		return color;
 	}
 	
-	public int GetMoveCount() {
+	public int getMoveCount() {
 		return this.moveCount;
 	}
 	
