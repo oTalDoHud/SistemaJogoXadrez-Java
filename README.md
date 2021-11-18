@@ -1,5 +1,5 @@
 # Xadrez em Java
-![GitHub](https://img.shields.io/github/license/oTalDoHud/SistemaJogoXadrez-Java)
+![GitHub](https://img.shields.io/github/license/oTalDoHud/SistemaJogoXadrez-Java?style=for-the-badge)
 
 # Sobre o projeto
 
@@ -8,7 +8,7 @@ Xadrez é o jogo de tabuleiro mais popular do mundo, sendo praticamente todos os
 A aplicação consiste em um jogo de xadrez inteiramente feito em Java, utilizando programação orientada a objeto, e o git bash em sua execução
 
 ## Execução
-![!Layout](https://github.com/oTalDoHud/ProjetoDashBoardVendas/blob/master/Assets/Excucao_layout.png)
+![Layout](https://github.com/oTalDoHud/SistemaJogoXadrez-Java/blob/main/Assets/Excucao_layout.png)
 
 # Tecnologias utilizadas
 ## Back end
